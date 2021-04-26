@@ -45,3 +45,6 @@ XTerm*translations: #override \n\
     Shift Ctrl <Key>V: insert-selection(CLIPBOARD) \n\
     <Key>BackSpace: string(0x7f) \n\
     <Key>Delete: string(0x1b) string("[3~")
+    
+xterm*background: black
+xterm*foreground: lightgray
